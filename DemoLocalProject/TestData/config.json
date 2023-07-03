@@ -1,0 +1,10 @@
+{
+  "btnProject": "Nexage",
+  "imglocation": ".\\TestData\\screenshot.png",
+  "username": "login";
+  "password": "password";
+  "schema": "http";
+  "domain": "localhost";
+  "port": "8080";
+  "subdomain": "web";
+}
